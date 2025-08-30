@@ -10,16 +10,6 @@ import logging
 import sys
 from pathlib import Path
 
-
-#import sys
-#from pathlib import Path
-#from .audio_io import record_push_to_talk, play_wav
-#from .stt import transcribe_wav
-#from .tts import synthesize_hi_to_wav
-#from .conversation_fsm import VoiceBotFSM
-#from .llm import classify_intent_hi
-#from .utils.logger import logger
-
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("voicebot")
 
