@@ -231,6 +231,3 @@ For production use, we would enhance this with:
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
 ```
-   - Added context for design decisions (FSM explanation)
-
-This improved README provides a much clearer, more professional presentation of your project while maintaining all the essential information from the original version.
