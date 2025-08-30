@@ -164,16 +164,6 @@ The tests cover all state transitions and conversation paths to ensure assessmen
 | **TTS fails: `ffmpeg not found`** | Install FFmpeg following the setup instructions |
 | **gTTS fails due to internet issues** | Connect to internet or replace with an offline TTS provider (e.g., Coqui TTS) |
 
-## 🎥 Demo Recording
-
-To create a demo video:
-
-1. Use screen recording software (OBS, QuickTime, etc.)
-2. Record while running `python src/main.py`
-3. Demonstrate:
-   - The happy path conversation flow
-   - A deviation and recovery scenario
-4. Save as `demo.mp4` in the project root
 
 ## 📁 Project Structure
 
