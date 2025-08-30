@@ -1,11 +1,5 @@
 # CabCoPilot
 
-```markdown
-# CabCoPilot
-
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/your-repo)
 
 A minimal, **local** voice-to-voice prototype designed specifically for the Ola driver support scenario. This system provides a complete Hindi-language voice interaction pipeline with push-to-talk functionality.
 
