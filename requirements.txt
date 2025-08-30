@@ -1,0 +1,11 @@
+numpy
+sounddevice
+soundfile
+faster-whisper
+gTTS
+pydub
+requests
+python-dotenv
+loguru
+pytest
+hf_xet

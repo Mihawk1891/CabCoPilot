@@ -1,0 +1,22 @@
+# Set default behavior for text files
+* text=auto
+
+# Source code files
+*.py text eol=lf
+*.sh text eol=lf
+
+# Documentation and configuration
+*.md text eol=lf
+*.txt text eol=lf
+*.ini text eol=lf
+*.toml text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.mp3 binary
+*.wav binary
