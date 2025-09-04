@@ -1,0 +1,14 @@
+OPENROUTER_API_KEY=""
+# Model name routed via OpenRouter if you enable LLM assistance for "unexpected" inputs.
+# e.g., openrouter/auto or meta-llama/llama-3.1-70b-instruct
+OPENROUTER_MODEL=openrouter/auto
+
+# Speech-to-text model size for faster-whisper: tiny, base, small, medium, large-v3
+ASR_MODEL_SIZE=small
+# ASR provider: faster-whisper (default), whisperx, openai-whisper, coqui, vosk
+ASR_PROVIDER=vosk
+
+
+
+# TTS provider: gtts (default). Other providers could be added later.
+TTS_PROVIDER=gtts

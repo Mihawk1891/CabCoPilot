@@ -28,7 +28,7 @@ def classify_intent_hi(text_hi: str) -> str:
         return "unknown"
 
     prompt = [
-        {"role": "system", "content": "You are a function that returns only one token label from {complaint, confirm_yes, confirm_no, unknown}."},
+        {"role": "system", "content": "You are a function that returns only one token label from {complaint, confirm_yes, confirm_no, unknown, feedback}."},
         {"role": "user", "content": f"Classify the Hindi user message into one label:\n\n\"\"\"\n{text_hi}\n\"\"\""},
     ]
 
